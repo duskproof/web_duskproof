@@ -32,7 +32,7 @@ This is an internal DUSKPROOF project. For contributions or suggestions, please 
 
 Contact
 
-- **Infrastructure**: [https://DUSKPROOF./](https://duskproof.com/)
+- **Infrastructure**: [https://DUSKPROOF.COM/](https://duskproof.com/)
 
 ---
 
